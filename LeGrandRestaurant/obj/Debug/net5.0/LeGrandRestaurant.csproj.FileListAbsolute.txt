@@ -1,0 +1,12 @@
+E:\git\cours\tests\RestoNewProfCestlebonCeluila\LeGrandRestaurant\bin\Debug\net5.0\LeGrandRestaurant.deps.json
+E:\git\cours\tests\RestoNewProfCestlebonCeluila\LeGrandRestaurant\bin\Debug\net5.0\LeGrandRestaurant.dll
+E:\git\cours\tests\RestoNewProfCestlebonCeluila\LeGrandRestaurant\bin\Debug\net5.0\ref\LeGrandRestaurant.dll
+E:\git\cours\tests\RestoNewProfCestlebonCeluila\LeGrandRestaurant\bin\Debug\net5.0\LeGrandRestaurant.pdb
+E:\git\cours\tests\RestoNewProfCestlebonCeluila\LeGrandRestaurant\obj\Debug\net5.0\LeGrandRestaurant.csproj.AssemblyReference.cache
+E:\git\cours\tests\RestoNewProfCestlebonCeluila\LeGrandRestaurant\obj\Debug\net5.0\LeGrandRestaurant.GeneratedMSBuildEditorConfig.editorconfig
+E:\git\cours\tests\RestoNewProfCestlebonCeluila\LeGrandRestaurant\obj\Debug\net5.0\LeGrandRestaurant.AssemblyInfoInputs.cache
+E:\git\cours\tests\RestoNewProfCestlebonCeluila\LeGrandRestaurant\obj\Debug\net5.0\LeGrandRestaurant.AssemblyInfo.cs
+E:\git\cours\tests\RestoNewProfCestlebonCeluila\LeGrandRestaurant\obj\Debug\net5.0\LeGrandRestaurant.csproj.CoreCompileInputs.cache
+E:\git\cours\tests\RestoNewProfCestlebonCeluila\LeGrandRestaurant\obj\Debug\net5.0\LeGrandRestaurant.dll
+E:\git\cours\tests\RestoNewProfCestlebonCeluila\LeGrandRestaurant\obj\Debug\net5.0\ref\LeGrandRestaurant.dll
+E:\git\cours\tests\RestoNewProfCestlebonCeluila\LeGrandRestaurant\obj\Debug\net5.0\LeGrandRestaurant.pdb
