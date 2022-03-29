@@ -1,5 +1,5 @@
 echo off
-set branch="master"
+set branch="main"
 
 git clone "https://github.com/LaOctoProduction/TestIndustrialisation"
 git pull "hhttps://github.com/LaOctoProduction/TestIndustrialisation" %branch% 
