@@ -1,0 +1,12 @@
+D:\EPSI\Test\TestIndustrialisation\.vs\LeGrandRestaurant\v17\lut\0\b\LeGrandRestaurant\Debug\net5.0\LeGrandRestaurant.deps.json
+D:\EPSI\Test\TestIndustrialisation\.vs\LeGrandRestaurant\v17\lut\0\b\LeGrandRestaurant\Debug\net5.0\LeGrandRestaurant.runtimeconfig.json
+D:\EPSI\Test\TestIndustrialisation\.vs\LeGrandRestaurant\v17\lut\0\b\LeGrandRestaurant\Debug\net5.0\LeGrandRestaurant.runtimeconfig.dev.json
+D:\EPSI\Test\TestIndustrialisation\.vs\LeGrandRestaurant\v17\lut\0\b\LeGrandRestaurant\Debug\net5.0\LeGrandRestaurant.dll
+D:\EPSI\Test\TestIndustrialisation\.vs\LeGrandRestaurant\v17\lut\0\b\LeGrandRestaurant\Debug\net5.0\ref\LeGrandRestaurant.dll
+D:\EPSI\Test\TestIndustrialisation\.vs\LeGrandRestaurant\v17\lut\0\i\LeGrandRestaurant\Debug\net5.0\LeGrandRestaurant.GeneratedMSBuildEditorConfig.editorconfig
+D:\EPSI\Test\TestIndustrialisation\.vs\LeGrandRestaurant\v17\lut\0\i\LeGrandRestaurant\Debug\net5.0\LeGrandRestaurant.AssemblyInfoInputs.cache
+D:\EPSI\Test\TestIndustrialisation\.vs\LeGrandRestaurant\v17\lut\0\i\LeGrandRestaurant\Debug\net5.0\LeGrandRestaurant.AssemblyInfo.cs
+D:\EPSI\Test\TestIndustrialisation\.vs\LeGrandRestaurant\v17\lut\0\i\LeGrandRestaurant\Debug\net5.0\LeGrandRestaurant.csproj.CopyComplete
+D:\EPSI\Test\TestIndustrialisation\.vs\LeGrandRestaurant\v17\lut\0\i\LeGrandRestaurant\Debug\net5.0\LeGrandRestaurant.dll
+D:\EPSI\Test\TestIndustrialisation\.vs\LeGrandRestaurant\v17\lut\0\i\LeGrandRestaurant\Debug\net5.0\ref\LeGrandRestaurant.dll
+D:\EPSI\Test\TestIndustrialisation\.vs\LeGrandRestaurant\v17\lut\0\i\LeGrandRestaurant\Debug\net5.0\LeGrandRestaurant.genruntimeconfig.cache

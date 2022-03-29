@@ -11,8 +11,6 @@ namespace LeGrandRestaurant
         public string Nom;
         public double Prix;
 
-        public Plat() { }
-
         public Plat(string nom, double prix)
         {
             this.Nom = nom;

@@ -1,18 +1,26 @@
 ﻿using LeGrandRestaurant.Db;
-using MySqlConnector;
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Data;
 using System.Data.Common;
 
 namespace LeGrandRestaurant.Test.Utilities
 {
     internal class DatabaseCommandeRepository : IList<ICommande>
     {
+        private CommandeManager context;
+
+        public DatabaseCommandeRepository()
+        {
+            context = new CommandeManager();
+            context.Clear();
+        }
+
         /// <inheritdoc />
         public IEnumerator<ICommande> GetEnumerator()
         {
-            throw new NotImplementedException();
+            return context.Get().GetEnumerator();
         }
 
         /// <inheritdoc />
@@ -24,13 +32,13 @@ namespace LeGrandRestaurant.Test.Utilities
         /// <inheritdoc />
         public void Add(ICommande item)
         {
-            throw new NotImplementedException();
+            context.Create(item);
         }
 
         /// <inheritdoc />
         public void Clear()
         {
-            throw new NotImplementedException();
+            context.Clear();
         }
 
         /// <inheritdoc />

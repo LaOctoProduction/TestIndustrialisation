@@ -1,39 +1,38 @@
 {
   "format": 1,
   "restore": {
-    "E:\\git\\cours\\tests\\RestoNewProfCestlebonCeluila\\LeGrandRestaurant.Test\\LeGrandRestaurant.Test.csproj": {}
+    "D:\\EPSI\\Test\\TestIndustrialisation\\LeGrandRestaurant.Test\\LeGrandRestaurant.Test.csproj": {}
   },
   "projects": {
-    "E:\\git\\cours\\tests\\RestoNewProfCestlebonCeluila\\LeGrandRestaurant.Test\\LeGrandRestaurant.Test.csproj": {
+    "D:\\EPSI\\Test\\TestIndustrialisation\\LeGrandRestaurant.Test\\LeGrandRestaurant.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\git\\cours\\tests\\RestoNewProfCestlebonCeluila\\LeGrandRestaurant.Test\\LeGrandRestaurant.Test.csproj",
+        "projectUniqueName": "D:\\EPSI\\Test\\TestIndustrialisation\\LeGrandRestaurant.Test\\LeGrandRestaurant.Test.csproj",
         "projectName": "LeGrandRestaurant.Test",
-        "projectPath": "E:\\git\\cours\\tests\\RestoNewProfCestlebonCeluila\\LeGrandRestaurant.Test\\LeGrandRestaurant.Test.csproj",
-        "packagesPath": "C:\\Users\\naced\\.nuget\\packages\\",
-        "outputPath": "E:\\git\\cours\\tests\\RestoNewProfCestlebonCeluila\\LeGrandRestaurant.Test\\obj\\",
+        "projectPath": "D:\\EPSI\\Test\\TestIndustrialisation\\LeGrandRestaurant.Test\\LeGrandRestaurant.Test.csproj",
+        "packagesPath": "C:\\Users\\Gangor\\.nuget\\packages\\",
+        "outputPath": "D:\\EPSI\\Test\\TestIndustrialisation\\LeGrandRestaurant.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "E:\\VisualStudio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\naced\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Gangor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Program Files (x86)\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\git\\cours\\tests\\RestoNewProfCestlebonCeluila\\LeGrandRestaurant\\LeGrandRestaurant.csproj": {
-                "projectPath": "E:\\git\\cours\\tests\\RestoNewProfCestlebonCeluila\\LeGrandRestaurant\\LeGrandRestaurant.csproj"
+              "D:\\EPSI\\Test\\TestIndustrialisation\\LeGrandRestaurant\\LeGrandRestaurant.csproj": {
+                "projectPath": "D:\\EPSI\\Test\\TestIndustrialisation\\LeGrandRestaurant\\LeGrandRestaurant.csproj"
               }
             }
           }
@@ -92,32 +91,31 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\git\\cours\\tests\\RestoNewProfCestlebonCeluila\\LeGrandRestaurant\\LeGrandRestaurant.csproj": {
+    "D:\\EPSI\\Test\\TestIndustrialisation\\LeGrandRestaurant\\LeGrandRestaurant.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\git\\cours\\tests\\RestoNewProfCestlebonCeluila\\LeGrandRestaurant\\LeGrandRestaurant.csproj",
+        "projectUniqueName": "D:\\EPSI\\Test\\TestIndustrialisation\\LeGrandRestaurant\\LeGrandRestaurant.csproj",
         "projectName": "LeGrandRestaurant",
-        "projectPath": "E:\\git\\cours\\tests\\RestoNewProfCestlebonCeluila\\LeGrandRestaurant\\LeGrandRestaurant.csproj",
-        "packagesPath": "C:\\Users\\naced\\.nuget\\packages\\",
-        "outputPath": "E:\\git\\cours\\tests\\RestoNewProfCestlebonCeluila\\LeGrandRestaurant\\obj\\",
+        "projectPath": "D:\\EPSI\\Test\\TestIndustrialisation\\LeGrandRestaurant\\LeGrandRestaurant.csproj",
+        "packagesPath": "C:\\Users\\Gangor\\.nuget\\packages\\",
+        "outputPath": "D:\\EPSI\\Test\\TestIndustrialisation\\LeGrandRestaurant\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "E:\\VisualStudio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\naced\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Gangor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Program Files (x86)\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -136,6 +134,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
             "MySqlConnector": {
               "target": "Package",
               "version": "[2.1.8, )"
@@ -156,7 +158,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

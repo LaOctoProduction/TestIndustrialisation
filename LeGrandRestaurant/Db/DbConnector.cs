@@ -37,8 +37,7 @@ namespace LeGrandRestaurant.Db
                     {
                         while (reader.Read())
                         {
-                            string columnTest = reader.GetString(reader.GetOrdinal("test"));
-                            return columnTest;
+                            return reader.GetString(reader.GetOrdinal("test"));
                         }
                     }
                 }

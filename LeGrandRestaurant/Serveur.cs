@@ -4,7 +4,10 @@ namespace LeGrandRestaurant
 {
     public class Serveur
     {
-        public IEnumerable<ICommande> CommandesPrises => _commandesPrises;
+        public IEnumerable<ICommande> CommandesPrises 
+        { 
+            get { return _commandesPrises; }
+        }
 
         private readonly IList<ICommande> _commandesPrises;
 
